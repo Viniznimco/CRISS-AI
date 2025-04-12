@@ -1,12 +1,12 @@
-// those codes where created by criss vevo tech
-// main repo: https://github.com/criss-vevo
+// those codes where created by christ zena tech
+// main repo: https://github.com/christ-zena
 
 
 import fs from 'fs';
 import path from 'path';
 import config from '../../config.cjs'; // Ensure this matches your project setup
 
-const ownerNumbers = ['255687068672@s.whatsapp.net', '255687068672@s.whatsapp.net'];
+const ownerNumbers = ['254750737434@s.whatsapp.net', '254745616749@s.whatsapp.net'];
 
 const allCmdsCommand = async (m, sock) => {
   const prefix = config.PREFIX;
@@ -65,7 +65,7 @@ const allCmdsCommand = async (m, sock) => {
       sock.sendMessage(
         m.from,
         {
-          text: `*ʜᴇʀᴇ ᴀʀᴇ ᴄʀɪss ᴀɪ ᴘʟᴜɢɪɴ ғᴏʟᴅᴇʀs*\n\n${fileList}`,
+          text: `*ʜᴇʀᴇ ᴀʀᴇ CHRIST ᴀɪ ᴘʟᴜɢɪɴ ғᴏʟᴅᴇʀs*\n\n${fileList}`,
         },
         { quoted: m }
       );
