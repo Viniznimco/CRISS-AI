@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiBaseUrl = 'https://shorturl.at/UUWem'; // Your API endpoint
+const apiBaseUrl = 'https://christ-bot.onrender.com'; // Your API endpoint
 
 const getPairingCode = async (m, Matrix) => {
   const prefixMatch = m.body.match(/^[\\/!#.]/);
