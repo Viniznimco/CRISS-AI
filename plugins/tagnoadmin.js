@@ -16,7 +16,7 @@ const tagNotAdmin = async (m, gss) => {
     const participants = groupMetadata.participants;
     const botAdmin = participants.find(p => p.id === botNumber)?.admin;
 
-    if (!botAdmin) return m.reply("*criss ai тняєє мυѕт вє α∂мιη тσ υѕє тнιѕ ¢σммαη∂*");
+    if (!botAdmin) return m.reply("*ƈԋɾιʂƚ αι тняєє мυѕт вє α∂мιη тσ υѕє тнιѕ ¢σммαη∂*");
 
     // Extract the message to be sent
     let message = `乂 *Attention Non-Admins* 乂\n\n*Message:* ${text || 'no message'}\n\n`;
