@@ -60,7 +60,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
       await gss.sendImageAsSticker(m.from, buffer, m, {
         packname: "",
-        author: "> CRISS AI"
+        author: "> CHRIST AI"
       });
     } catch (error) {
       console.error('Error during HTTP request:', error);
