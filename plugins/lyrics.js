@@ -16,7 +16,7 @@ const Lyrics = async (m, Matrix) => {
 
     try {
       await m.React('🕘');
-      await m.reply('A moment, *ᴄʀɪss ᴀɪ* is generating your lyrics request...');
+      await m.reply('A moment, *CHRIST ᴀɪ* is generating your lyrics request...');
 
       if (!text.includes('|')) {
         return m.reply('Please provide the song name and artist name separated by a "|", for example: Spectre|Alan Walker.');
@@ -47,10 +47,10 @@ const Lyrics = async (m, Matrix) => {
                   text: lyrics
                 }),
                 footer: proto.Message.InteractiveMessage.Footer.create({
-                  text: "> *ρσωєя∂ ву ¢яιѕѕ νєνσ*"
+                  text: "> *ρσωєя∂ ву CHRISTINE ZENA*"
                 }),
                 header: proto.Message.InteractiveMessage.Header.create({
-                  title: "¢яιѕѕ αι",
+                  title: "CHRIST AI",
                   subtitle: "ℓуяι¢ѕ ƒιη∂єя",
                   hasMediaAttachment: false
                 }),
