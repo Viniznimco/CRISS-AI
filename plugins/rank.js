@@ -59,7 +59,7 @@ const rank = async (m, sock) => {
             title: "CHRISTY xᴅ ʙᴏᴛ ᴠ ⁷",
             body: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ CHRISTY ZENA",
             thumbnailUrl: 'https://files.catbox.moe/ntcw8m.jpg', // Add thumbnail URL if required
-            sourceUrl: 'https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g', // Add source URL if necessary
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y', // Add source URL if necessary
             mediaType: 1,
             renderLargerThumbnail: true,
           },
