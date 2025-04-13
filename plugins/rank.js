@@ -56,8 +56,8 @@ const rank = async (m, sock) => {
           },
           forwardingScore: 999, // Score to indicate it has been forwarded
           externalAdReply: {
-            title: "CHRISTY xᴅ ʙᴏᴛ ᴠ ⁷",
-            body: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ CHRISTY ZENA",
+            title: "ᴄʜʀɪsᴛʏ xᴅ ʙᴏᴛ ᴠ ⁴",
+            body: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʜʀɪsᴛʏ ᴢᴇɴᴀ",
             thumbnailUrl: 'https://files.catbox.moe/ntcw8m.jpg', // Add thumbnail URL if required
             sourceUrl: 'https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y', // Add source URL if necessary
             mediaType: 1,
