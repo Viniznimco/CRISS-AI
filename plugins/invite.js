@@ -20,7 +20,7 @@ const invite = async (m, gss) => {
       return m.reply('*📛 BOT MUST BE AN ADMIN TO USE THIS COMMAND.*');
     }
 
-    if (!text) return m.reply(`*📛 ENTER THE NUMBER YOU WANT TO INVITE TO THE GROUP*\n\nExample:\n*${prefix + cmd}* 255687068672`);
+    if (!text) return m.reply(`*📛 ENTER THE NUMBER YOU WANT TO INVITE TO THE GROUP*\n\nExample:\n*${prefix + cmd}* 254750737434`);
     if (text.includes('+')) return m.reply(`*📛 ENTER THE NUMBER TOGETHER WITHOUT *+*`);
     if (isNaN(text)) return m.reply(`*📛 ENTER ONLY THE NUMBERS PLUS YOUR COUNTRY CODE WITHOUT SPACES`);
 
