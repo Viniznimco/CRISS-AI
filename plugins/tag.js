@@ -21,7 +21,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     
         if (!m.isGroup) return m.reply("*ιт ιѕ α gяσυρ ¢σммαη∂*");
 
-    if (!botAdmin) return m.reply("*criss ai bot мυѕт вє α∂мιη тσ υѕє тнιѕ ¢σммαη∂*");
+    if (!botAdmin) return m.reply("*CHRIST ai bot мυѕт вє α∂мιη тσ υѕє тнιѕ ¢σммαη∂*");
     if (!senderAdmin) return m.reply("*уσυ αяє ησт α∂мιη вιт¢н*");
     // Extract the message to be sent
     let message = `乂 *Attention Everyone* 乂\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
