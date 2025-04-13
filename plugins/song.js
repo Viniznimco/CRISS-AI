@@ -40,7 +40,7 @@ const song = async (m, gss) => {
         {
           video: { url: download_url },
           mimetype: "video/mp4",
-          caption: `*${title}*\n\n*POWERED BY CRISS AI*`,
+          caption: `*${title}*\n\n*POWERED BY CHRIST AI*`,
         },
         { quoted: m }
       );
