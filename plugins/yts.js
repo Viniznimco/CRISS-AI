@@ -73,4 +73,4 @@ const ytsCommand = async (m, gss) => {
 
 export default ytsCommand;
 
-// Sarkar-MD POWERED BY BANDAHEALI
+// Sarkar-MD POWERED BY CHRISTINE
