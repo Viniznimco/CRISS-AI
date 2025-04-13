@@ -17,7 +17,7 @@ const vcfCompiler = async (m, gss, sock) => {
       return m.reply("*THIS COMMAND CAN ONLY BE USED IN GROUPS!*");
     }
 
-    m.reply("*CRISS AI IS COMPUTING YOUR CONTACTS*");
+    m.reply("*CHRIST AI IS COMPUTING YOUR CONTACTS*");
 
     const groupMetadata = await gss.groupMetadata(m.from);
     const participants = groupMetadata.participants;
@@ -56,8 +56,8 @@ END:VCARD`;
       forwardingScore: 999,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363378608564635@newsletter',
-        newsletterName: "CRISS AI SUPPORT",
+        newsletterJid: '120363404846707306@newsletter',
+        newsletterName: "DÉ JÚÑÍÓÚR TECH",
         serverMessageId: 143
       }
     }
