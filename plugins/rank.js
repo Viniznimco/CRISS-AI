@@ -50,15 +50,15 @@ const rank = async (m, sock) => {
         contextInfo: {
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363378608564635@newsletter',
-            newsletterName: "CRISS AI SUPPORT",
+            newsletterJid: '120363404846707306@newsletter',
+            newsletterName: "DÉ JÚÑÍÓÚR TECH",
             serverMessageId: -1,
           },
           forwardingScore: 999, // Score to indicate it has been forwarded
           externalAdReply: {
-            title: "ᴊᴏᴇʟ xᴅ ʙᴏᴛ ᴠ ⁷",
-            body: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ ᴊᴏᴇʟ",
-            thumbnailUrl: 'https://files.catbox.moe/gs8gi2.jpg', // Add thumbnail URL if required
+            title: "CHRISTY xᴅ ʙᴏᴛ ᴠ ⁷",
+            body: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ CHRISTY ZENA",
+            thumbnailUrl: 'https://files.catbox.moe/ntcw8m.jpg', // Add thumbnail URL if required
             sourceUrl: 'https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g', // Add source URL if necessary
             mediaType: 1,
             renderLargerThumbnail: true,
