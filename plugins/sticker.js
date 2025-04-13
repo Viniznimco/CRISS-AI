@@ -6,7 +6,7 @@ const stickerCommand = async (m, gss) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
   const text = m.body.slice(prefix.length + cmd.length).trim();
 
-  const packname = global.packname || "CRISS-AI";
+  const packname = global.packname || "CHRIST-AI";
   const author = global.author || "🖤🇵🇰";
 
   const validCommands = ['sticker', 's', 'autosticker'];
